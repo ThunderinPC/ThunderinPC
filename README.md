@@ -1,4 +1,12 @@
-### Hi there 👋
+### Avid Java and Python Developer
+
+## 4 Years of in-depth experience of python | 3 Years of ~~not so~~ in-depth experience of Java
+
+- Working on too many projects at once!
+
+- KingsQOL coming soon:tm:
+
+
 
 <!--
 **ThunderinPC/ThunderinPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
