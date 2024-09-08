@@ -4,7 +4,7 @@
 
 - Working on too many projects at once!
 
-- KingsQOL coming soon:tm:
+- LC Listing *best listing bot for the price* | Skyblock, Bedwars -> Built in python with a custom API for requests
 
 
 
