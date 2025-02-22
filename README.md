@@ -4,7 +4,9 @@
 
 - Working on too many projects at once!
 
-- LC Listing *best listing bot for the price* | Skyblock, Bedwars -> Built in python with a custom API for requests
+Check out projects I work on!
+discord.gg/mintexc
+discord.gg/mintmp
 
 
 
