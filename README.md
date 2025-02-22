@@ -4,9 +4,9 @@
 
 - Working on too many projects at once!
 
-Check out projects I work on!
-discord.gg/mintexc
-discord.gg/mintmp
+Check out projects I work on!\n
+discord.gg/mintexc\n
+discord.gg/mintmp\n
 
 
 
